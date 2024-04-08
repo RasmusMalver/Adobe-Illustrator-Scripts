@@ -4,3 +4,7 @@
 # Other files and folders
 .vscode
 **/.vscode/**
+launch.json
+settings.json
+tsconfig.json
+jsconfig.json
